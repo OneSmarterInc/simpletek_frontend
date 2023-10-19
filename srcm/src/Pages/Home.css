@@ -1,0 +1,7 @@
+select{
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
