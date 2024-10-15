@@ -171,7 +171,7 @@ const HomeTable = ({ selectedClient }) => {
                       <Td>
                         <a
                           target="_blank"
-                          href={`http://3.218.73.237/${el.original_pdf}`}
+                          href={`${api_domain}api/${el.original_pdf}`}
                           download={el.original_pdf}
                         >
                           <Button
@@ -192,7 +192,7 @@ const HomeTable = ({ selectedClient }) => {
                           <TimeIcon />
                         ) : (
                           <a
-                            href={`http://3.218.73.237/${el.excel_summary}`}
+                            href={`${api_domain}api/${el.excel_summary}`}
                             download={el.excel_summary}
                           >
                             <Button
@@ -214,7 +214,7 @@ const HomeTable = ({ selectedClient }) => {
                           <TimeIcon />
                         ) : (
                           <a
-                            href={`http://3.218.73.237/${el.excel_details}`}
+                            href={`${api_domain}api/${el.excel_details}`}
                             download={el.excel_details}
                           >
                             <Button
