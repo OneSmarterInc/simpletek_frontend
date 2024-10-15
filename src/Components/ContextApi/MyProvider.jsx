@@ -3,7 +3,7 @@ import MyContext from "./MyContext";
 
 
 //const api_domain = "http://3.218.73.237/api/v1/";
-const api_domain = "http://127.0.0.1:8000/api/v1/";
+const api_domain = "https://3.225.188.222/api/v1/";
 
 
 
