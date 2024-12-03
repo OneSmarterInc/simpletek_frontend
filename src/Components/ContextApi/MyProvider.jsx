@@ -3,7 +3,7 @@ import MyContext from "./MyContext";
 
 
 //const api_domain = "http://3.218.73.237/api/v1/";
-const api_domain = "https://3.225.188.222/api/v1/";
+const api_domain = "https://mobility.1-smarter.net/api/v1/";
 
 
 
